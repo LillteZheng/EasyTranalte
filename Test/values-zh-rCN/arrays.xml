@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="test_array">
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+    </string-array>
+    
+    <string-array name="test2_array">
+        <item>时</item>
+        <item>分</item>
+        <item>秒</item>
+    </string-array>
+</resources>

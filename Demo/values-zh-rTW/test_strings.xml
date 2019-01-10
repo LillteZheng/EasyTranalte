@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">OtaService</string>
+	<string name="anim_time">200.0</string>
+	<string name="system_update">系統升級</string>
+	<string name="check_new_version">檢測到新版本</string>
+	<string name="test_string">這是個測試</string>
+</resources>

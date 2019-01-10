@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">OtaService</string>
+	<string name="anim_time">200</string>
+	<string name="system_update">系统升级</string>
+	<string name="check_new_version">检测到新版本，是否下载?</string>
+	<string name="test_string">这是个测试</string>
+</resources>

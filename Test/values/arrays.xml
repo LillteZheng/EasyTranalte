@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="test_array">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+    </string-array>
+    
+     <string-array name="test2_array">
+        <item>hour</item>
+        <item>min</item>
+        <item>second</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">OtaService</string>
+	<string name="anim_time">200</string>
+	<string name="system_update">System upgrade</string>
+	<string name="check_new_version">Find a new version. Download it?</string>
+</resources>
